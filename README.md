@@ -1,2 +1,2 @@
 # infor-retrieval
-A course project as UESTC
+A course project in UESTC
